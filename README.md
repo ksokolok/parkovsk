@@ -1,2 +1,2 @@
-# mashinomesta
+# parkovsk
 Приложение для работы с паркингом
